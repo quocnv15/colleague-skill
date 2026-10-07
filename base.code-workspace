@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    // {
+    //   "path": "../ios-templates"
+    // },
+    // {
+    //   "path": "../blitz-mac"
+    // },
+    // {
+    //   "path": "../ios-pipeline"
+    // },
+    {
+      "path": "../ios_knowledge"
+    },
+    // {
+    //   "path": "../ios006-silly-smile"
+    // },
+    // {
+    //   "path": "../ios009-emoji-merge"
+    // },
+    // {
+    //   "path": "../ios010-gps-camera"
+    // },
+    // {
+    //   "path": "../ios014-zipper-wallpaper"
+    // },
+    // {
+    //   "path": "../ios015-gps-find-location"
+    // }
+  ]
+}
